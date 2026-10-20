@@ -212,6 +212,8 @@ Then open <http://localhost:8080>. The Temporal UI is at
 <http://localhost:8233>. The standalone event leaderboard is at
 <http://localhost:8080/leaderboard>.
 
+To present the demo, follow [RUNBOOK.md](RUNBOOK.md): the walkthrough beat by beat, and where in the code each part happens.
+
 ### Read-only Workflow Explorer
 
 The web app includes an application-aware Workflow Explorer at
